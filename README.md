@@ -23,7 +23,7 @@ El sistema se desarrollará utilizando el framework Django, permitiendo la gesti
 
 # Diagrama Visual Paradimg 
 
-![image](https://github.com/user-attachments/assets/f349fb2c-0118-46e6-9daf-77fa9918da9f)
+![Captura de pantalla 2025-01-26 131453](https://github.com/user-attachments/assets/765e6d74-54ec-4797-ba9e-57cea3c63559)
 
 Link del diagrama para ver más claro
 
