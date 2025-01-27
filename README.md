@@ -29,6 +29,10 @@ Link del diagrama para ver más claro
 
 https://drive.google.com/file/d/1rEPlRqqYIM9MSgk_zI7GW1_jgbYYFG1C/view?usp=sharing
 
+# Código de DJANGO
+
+https://github.com/Sebaslsst/Farmacias/tree/develop/Farmacia_POO
+
 # Datos del apartado de inicio de sesión en templates
 - Para el rol del admin se uso de usuario: Sebas12 y de contraseña: 12345
 - Para el rol del admin se uso de usuario: Juan13 y de contraseña: empleado123
